@@ -45,3 +45,11 @@ Here is one set of steps you might follow to obtain an image:
 
 ## Additional Resources
 Further information regarding the RCX ROM has been posted on the [RCX Internals site](http://www.mralligator.com/rcx/#Rom).
+
+## Alternatives
+An open source implementation of the LEGO ROM for the MindStorms RCX is available under the [FOSS-RCX-ROM project](https://github.com/BrickBot/FOSS-RCX-ROM).
+When possible use of an extracted LEGO ROM is preferred, as that better guarantees compabitility.
+
+A version of ROM extracted from a LEGO MindStorms RCX 1.0 brick is also available with the
+[LEGO releases](https://github.com/BrickBot/Archive/releases/tag/LEGO) posted under the
+[BrickBot Archive](https://github.com/BrickBot/Archive) repository.
